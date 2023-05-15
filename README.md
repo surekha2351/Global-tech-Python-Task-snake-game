@@ -19,8 +19,7 @@ collides with the game board or with itself.<br/>
 5.Update the snake's position and score as it eats food on the
 game board.<br/>
 
-6.Add sound effects and visual effects like color changes to
-enhance the gameplay experience.<br/>
+
 
 <br/>
 <img src="https://res.cloudinary.com/drdjty87p/image/upload/v1684129481/Python_3.11_15-05-2023_11_12_14_mdhukj.png" width="400"/>
